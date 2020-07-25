@@ -3,7 +3,7 @@
     @author   Khelad Mohamed AL-SAYED
     @data     25/7/2020
     @Time     03:25 AM
-    File		: calculator.c
+    File		: ex.c
 Description	: sample calculator program
 *************************************************/
 
