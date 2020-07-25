@@ -71,8 +71,8 @@ here:/*the point which goto up to it  */
 				     	Revision History
 ****************************************************************/
 /*
-	* MM/DD/YYYY	  Name						  Task Number		Description
-	* ----------	  -------------------         -----------	    -----------------------------------------
-	* 25/07/2020	  Khelad Mohamed AL-SAYED      0x000001         change in e from power of 10 to character
+	* MM/DD/YYYY	  Name			        Task Number	     Description
+	* ----------	  -------------------           -----------	    -----------------------------------------
+	* 25/07/2020	  Khelad Mohamed AL-SAYED        0x000001              change in e from power of 10 to character
 
 */
